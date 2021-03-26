@@ -18,7 +18,7 @@
 # defaults write com.github.autopkg PATCH_URL https://the.url.to.your.patchServer:1234
 # defaults write com.github.autopkg PATCH_TOKEN yourPatchServerTokenForEdits
 # Usage:
-# autopkg run Firefox.jss --key STOP_IF_NO_JSS_UPLOAD=False --post de.lrz.SharedProcessors/NotifyPatchServer
+# autopkg run Firefox.jss --key STOP_IF_NO_JSS_UPLOAD=False --post com.github.lrz.SharedProcessors/NotifyPatchServer
 #
 # STOP_IF_NO_JSS_UPLOAD is not necessary.
 # But if you have multiple JSSImporter Processors running in one Recipe you'd have to do that.

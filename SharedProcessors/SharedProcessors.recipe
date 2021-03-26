@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Identifier</key>
-    <string>com.github.ChrOst.SharedProcessors</string>
+    <string>com.github.lrz.SharedProcessors</string>
     <key>Input</key>
     <dict />
     <key>MinimumVersion</key>
